@@ -20,7 +20,7 @@ public class ShapeAssets {
         System.out.println("Pi is = " + PI);
     }
     public void calculateE() {
-        System.out.println("Euler's number or e, is = " + E);
+        System.out.println("Euler's number, or e, is = " + E);
     }
     //Important Operators
     public double add(double num1, double num2) {
